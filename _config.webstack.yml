@@ -42,6 +42,30 @@ enVideo:
     url: https://www.bilibili.com/video/BV1Gf4y1y7wc
     img: /images/logos/myblog.png
     description: Ted-ed近1000P包含完整的标题按原频道发布时间顺序排序，上传全部的英文CC字幕和中文CC字幕
+  - name: 200+集 Crash Course
+    url: https://www.bilibili.com/video/BV1SK4y1E7QT
+    img: /images/logos/myblog.png
+    description: 200+集 Crash Course 【英文CC字幕】
+  - name: 200+集 The School of Life
+    url: https://www.bilibili.com/video/BV1PN411R71d
+    img: /images/logos/myblog.png
+    description: 200+集 The School of Life 【英文CC字幕】
+  - name: 40+集 English pronunciation roadmap
+    url: https://www.bilibili.com/video/BV1rf4y167eb
+    img: /images/logos/myblog.png
+    description: 40+集 English pronunciation roadmap【英文CC字幕】
+  - name: 240+集 一分钟物理 Minute Physics
+    url: https://www.bilibili.com/video/BV1m5411E7xw
+    img: /images/logos/myblog.png
+    description: 240+集 一分钟物理 Minute Physics【英文CC字幕】
+  - name: 180+集 FBE React 2020年合集
+    url: https://www.bilibili.com/video/BV1ch411f76u
+    img: /images/logos/myblog.png
+    description: FBE的React频道主要是将比较火的视频给不同年龄段的人看，记录他们的反应（reaction）。
+  - name: 210集+MinuteEarth 合集
+    url: https://www.bilibili.com/video/BV1Jy4y1U7S8
+    img: /images/logos/myblog.png
+    description: YouTube频道MinuteEarth的视频，讲述我们这个美好星球的科学和故事。包含原视频的完整标题，日期为该频道在YouTube上发布的日期。
 
 about:
   url: https://sspai.com/post/39683
