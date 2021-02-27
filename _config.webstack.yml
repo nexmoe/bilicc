@@ -21,6 +21,9 @@ menu:
   - name: 英语UP主
     icon: far fa-star
     config: enUP
+  - name: 日语UP主
+    icon: far fa-star
+    config: jpUP
   - name: 英语视频
     icon: far fa-star
     config: enVideo
@@ -30,12 +33,28 @@ cnUP:
     url: https://space.bilibili.com/25876945
     img: /images/logos/25876945.jpg
     description: 爱折腾、超硬核的科技数码频道！
+  - name: YuchenTV
+    url: https://space.bilibili.com/4061245
+    img: /images/logos/4061245.jpg
+    description: 预备役UP主｜地球人
+  
 
 enUP:
   - name: 圣诞节南瓜灯
     url: https://space.bilibili.com/319176130
     img: /images/logos/319176130.jpg
     description: 分享有价值的英语学习资源。
+  - name: AJ传译君
+    url: https://space.bilibili.com/27792668
+    img: /images/logos/27792668.jpg
+    description: 赋闲在家的同传
+
+jpUP:
+  - name: ParadoxLive官方频道
+    url: https://space.bilibili.com/602491181
+    img: /images/logos/602491181.jpg
+    description: HIP-HOP MixMedia Project「Paradox Live
+
 
 enVideo:
   - name: 1000集 TED-ED
